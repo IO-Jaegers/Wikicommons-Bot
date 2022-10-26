@@ -1,0 +1,9 @@
+venv/*
+.venv/*
+
+logs/*
+
+*.lwp
+*.ctrl
+
+apicache-py3/*
