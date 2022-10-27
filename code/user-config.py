@@ -1,6 +1,4 @@
-# This is an automatically generated file. You can find more
-# configuration parameters in 'config.py' file or refer
-# https://doc.wikimedia.org/pywikibot/master/api_ref/pywikibot.config.html
+# This is an automatically generated file. You can find more configuration parameters in 'config.py' file or refer https://doc.wikimedia.org/pywikibot/master/api_ref/pywikibot.config.html
 
 # The family of sites to be working on.
 # Pywikibot will import families/xxx_family.py so if you want to change
@@ -19,7 +17,7 @@ usernames['commons']['commons'] = 'User:Bot-IOJaegers'
 # The list of BotPasswords is saved in another file. Import it if needed.
 # See https://www.mediawiki.org/wiki/Manual:Pywikibot/BotPasswords to know how
 # use them.
-password_file = None
+password_file = '/var/passwords/pass'
 
 # ############# LOGFILE SETTINGS ##############
 
