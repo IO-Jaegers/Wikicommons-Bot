@@ -7,3 +7,5 @@ logs/*
 *.ctrl
 
 apicache-py3/*
+
+user-config.py
