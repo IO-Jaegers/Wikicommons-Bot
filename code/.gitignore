@@ -1,5 +1,6 @@
 venv/*
 .venv/*
+.pycharm/*
 
 logs/*
 
@@ -9,3 +10,4 @@ logs/*
 apicache-py3/*
 
 user-config.py
+user-password.py
