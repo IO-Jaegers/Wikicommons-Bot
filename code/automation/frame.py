@@ -1,8 +1,4 @@
-import time
-
 import pywikibot
-from pywikibot \
-    import pagegenerators
 
 import data
 

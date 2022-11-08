@@ -1,0 +1,11 @@
+*	text=auto
+
+*.py diff=py eol=lf
+*.md diff=markdown eol=crlf
+*.sh diff=sh eol=lf
+*.sql diff=sql eol=lf
+
+.gitignore text eol=lf
+.gitattributes text eol=lf
+/.github export-ignore
+CHANGELOG.md export-ignore
