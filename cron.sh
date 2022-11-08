@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source ./.venv/bin/activate
+source ./.enviroment/bin/activate
 
 
 
