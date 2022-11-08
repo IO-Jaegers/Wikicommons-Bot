@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 
-source ./.enviroment/bin/activate
+if [ ! -d  "./.enviroment"]
+then
+  echo "enviroment is not installed"
+else
+  source ./.enviroment/bin/activate
+  python bootstrap.py
+fi
 
 
 
